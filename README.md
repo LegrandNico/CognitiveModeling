@@ -1,8 +1,8 @@
 # Advanced cognitive modeling
 
-<img src="https://github.com/LegrandNico/Cognitive Modeling/raw/master/images/logo.png" align="right" alt="metadPy" height="250" HSPACE=30>
+<img src="https://github.com/LegrandNico/CognitiveModeling/raw/master/images/network.png" align="right" alt="metadPy" height="250" HSPACE=30>
 
-This repository contain material for the advanced cognitive modeling course (Aarhus University). All Monday will be allocated to lectures, the practice and applications will be on Fridays. We will use Python (PyMC3 for Bayesian modelling, Tensorflow and OpenGym for deep reinforcement learning).
+This repository contain material for the advanced cognitive modeling course (Aarhus University). All Monday will be allocated to lectures, the practice and applications will be on Fridays. We will use Python, [PyMC3](https://docs.pymc.io/) for Bayesian modelling, [Tensorflow](https://www.tensorflow.org/) and [OpenGym](https://gym.openai.com/) for deep reinforcement learning).
 
 The portfolio will consist of 3 exercices in the form of Jupyter notebooks (weeks 11, 16 and 19).
 
@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=KZQXfQL1SH4
 | **Week 6** | | |
 | --- | ---| --- |
 | Monday | 14:00 – 16:00 | Modeling process
-| Friday | 12:00 – 14:00 | Intro to PyMC3 – Linear regression, group mean
+| Friday | 12:00 – 14:00 | Introduction to PyMC3 – Linear regression, group mean
 
 ---
 
@@ -69,13 +69,13 @@ https://www.youtube.com/watch?v=KZQXfQL1SH4
 
 ---
 
-**Week 13**
+**Week 13 - No class**
 
 ---
 
 | **Week 14** | | |
 | --- | ---| --- |
-| Friday | 12:00 – 14:00 | Intro to Open AI Gym + Tensorflow
+| Friday | 12:00 – 14:00 | Introduction to Open AI Gym + Tensorflow
 
 ---
 
