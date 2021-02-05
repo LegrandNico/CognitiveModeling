@@ -10,8 +10,8 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 
 ### Week 5
 
-| Friday | 12:00 – 14:00 | Presentation – Introduction to cognitive and computational modelling
-| --- | ---| --- |
+| Friday | 12:00 – 14:00 | Presentation – Introduction to cognitive and computational modelling | [Slides](https://github.com/LegrandNico/CognitiveModeling/raw/master/Slides/Advanced%20cognitive%20modeling%20%E2%80%93%20%201.1%20Introduction.pdf)
+| --- | ---| --- | --- |
 
 * Neuromatch Academy (W1D1 - Intro) - [Video](https://www.youtube.com/watch?v=KxldhMR5PxA) - [Slides](https://osf.io/rbx2a/?direct%26mode=render%26action=download%26mode=render)
 * Neuromatch Academy (W1D1 - Outro) - [Video](https://www.youtube.com/watch?v=KZQXfQL1SH4) - [Slides](https://osf.io/9hkg2/?direct%26mode=render%26action=download%26mode=render)
@@ -123,5 +123,3 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 | --- | ---| --- |
 | Wednesday | 12:00 – 14:00 | PsychRNN
  
-# Resources
-
