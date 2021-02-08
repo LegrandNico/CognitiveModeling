@@ -15,7 +15,6 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 
 * Neuromatch Academy (W1D1 - Intro) - [Video](https://www.youtube.com/watch?v=KxldhMR5PxA) - [Slides](https://osf.io/rbx2a/?direct%26mode=render%26action=download%26mode=render)
 * Neuromatch Academy (W1D1 - Outro) - [Video](https://www.youtube.com/watch?v=KZQXfQL1SH4) - [Slides](https://osf.io/9hkg2/?direct%26mode=render%26action=download%26mode=render)
-
 * Neuromatch Academy (W1D1 - Tutorials) - [Videos](https://www.youtube.com/watch?v=KgqR_jbjMQg&list=PLkBQOLLbi18ObAiSOZ42YBwOQIKNvspeI) - [Slides](https://osf.io/6dxwe/?direct%26mode=render%26action=download%26mode=render)
 
 * Lei Zhang - BayesCog Summer 2020 Lecture 09 - [Intro to cognitive modeling & Rescorla-Wagner model](https://youtu.be/tXFKYWx6c3k?list=PLfRTb2z8k2x9gNBypgMIj3oNLF8lqM44-)
@@ -34,7 +33,17 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 
 | Monday | 14:00 – 16:00 | The process of modeling
 | --- | ---| --- |
-| Friday | 12:00 – 14:00 | Introduction to PyMC3 – Linear regression, group mean
+| Friday | 12:00 – 14:00 | Introduction to PyMC3 – Bayes' rule, distributions, linear regression
+
+>Bodner, K., Brimacombe, C., Chenery, E. S., Greiner, A., McLeod, A. M., Penk, S. R., & Vargas Soto, J. S. (2021). Ten simple rules for tackling your first mathematical models: A guide for graduate students by graduate students. PLOS Computational Biology, 17(1), e1008539. https://doi.org/10.1371/journal.pcbi.1008539
+
+>Wilson, R. C., & Collins, A. G. (2019). Ten simple rules for the computational modeling of behavioral data. ELife, 8. https://doi.org/10.7554/elife.49547
+
+>Blohm, G., Kording, K. P., & Schrater, P. R. (2020). A How-to-Model Guide for Neuroscience. Eneuro, 7(1), ENEURO.0352-19.2019. https://doi.org/10.1523/eneuro.0352-19.2019
+
+* Neuromatch Academy (W1D2 - Intro) - [Video](https://www.youtube.com/watch?v=8pz_NH5_Zy4) - [Slides](https://osf.io/kmwus/?direct%26mode=render%26action=download%26mode=render)
+* Neuromatch Academy (W1D2 - Outro) - [Video](https://www.youtube.com/watch?v=Il8zOmCMFAA) - [Slides](https://osf.io/agrp6/?direct%26mode=render%26action=download%26mode=render)
+* Neuromatch Academy (W1D2 - Tutorials) - [Videos](https://youtu.be/x4b2-hZoyiY?list=PLkBQOLLbi18Nc7rjBNO99bZQyuTY0TAcE) - [Slides](https://osf.io/kygfn/?direct%26mode=render%26action=download%26mode=render)
 
 ---
 
