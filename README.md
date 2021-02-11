@@ -4,6 +4,11 @@
 
 This repository contains material for the advanced cognitive modeling course (Aarhus University). All Monday will be allocated to lectures, the practice and applications will be on Fridays. We will use Python, [PyMC3](https://docs.pymc.io/) for Bayesian modelling, [Tensorflow](https://www.tensorflow.org/) and [OpenGym](https://gym.openai.com/) for deep/reinforcement learning).
 
+**Prerequisites:** This course will be run using Python. If you have never programmed in Python, or if you have limited experience with it, you might consider to prepare using the following tutorials:
+* [Software carpentry 1-day Python tutorial](https://swcarpentry.github.io/python-novice-inflammation/)
+* [Scipy Lecture Notes](https://scipy-lectures.org/)
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
 The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on weeks 11, Reinforcement learning on week 16 and Deep reinforcement learning on week 19).
 
 ## Schedule
@@ -23,9 +28,9 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 
 >Kriegeskorte, N., & Douglas, P. K. (2018). Cognitive computational neuroscience. *Nature Neuroscience, 21(9), 1148–1160*. https://doi.org/10.1038/s41593-018-0210-5 
 
->Lewandowsky, S. & Farrell, S. (2011). Computational modeling in cognition : principles and practice. Thousand Oaks: Sage Publications.
+>Lewandowsky, S. & Farrell, S. (2011). Computational modeling in cognition : principles and practice. Thousand Oaks: Sage Publications. *Chapter 1*.
 
->Forstmann, B. & Wagenmakers. (2015). An introduction to model-based cognitive neuroscience. New York, NY: Springer. *Ch. 1: An Introduction to Cognitive Modeling*.
+>Forstmann, B. & Wagenmakers. (2015). An introduction to model-based cognitive neuroscience. New York, NY: Springer. *Chapter 1: An Introduction to Cognitive Modeling*.
 
 ---
 
@@ -33,11 +38,9 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 
 | Monday | 14:00 – 16:00 | The process of modeling
 | --- | ---| --- |
-| Friday | 12:00 – 14:00 | Introduction to PyMC3 – Bayes' rule, distributions, linear regression
+| Friday | 12:00 – 14:00 | Programming Probabilistically – Bayes' rule, distributions
 
 >Bodner, K., Brimacombe, C., Chenery, E. S., Greiner, A., McLeod, A. M., Penk, S. R., & Vargas Soto, J. S. (2021). Ten simple rules for tackling your first mathematical models: A guide for graduate students by graduate students. PLOS Computational Biology, 17(1), e1008539. https://doi.org/10.1371/journal.pcbi.1008539
-
->Wilson, R. C., & Collins, A. G. (2019). Ten simple rules for the computational modeling of behavioral data. ELife, 8. https://doi.org/10.7554/elife.49547
 
 >Blohm, G., Kording, K. P., & Schrater, P. R. (2020). A How-to-Model Guide for Neuroscience. Eneuro, 7(1), ENEURO.0352-19.2019. https://doi.org/10.1523/eneuro.0352-19.2019
 
@@ -49,16 +52,31 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 
 ### Week 7
 
-| Monday | 14:00 – 16:00 | Bayesian models – MCMC – Parameter estimation |
+| Monday | 14:00 – 16:00 | Introduction to PyMC3 – MCMC – Parameter estimation - Linear regression |
 | --- | ---| --- |
 | Friday | 12:00 – 14:00 | Bayesian t-test – Cheating among students model |
+
+> Martin, O. (2018). Bayesian analysis with Python : introduction to statistical modeling and probabilistic programming using PyMC3 and ArviZ. Birmingham, UK: Packt Publishing. *Chapter 1 and 2*.
+
+> Kruschke, J. (2015). Doing Bayesian data analysis : a tutorial with R, JAGS, and Stan. Boston: Academic Press. *Chapter 6 and 7*.
+
+> Pilon, C. Bayesian methods for hackers : probabilistic programming and Bayesian inference. New York: Addison-Wesley. *Chapter 1 and 2*.
+
+ * An introduction to Markov Chain Monte Carlo using PyMC3 by Chris Fonnesbeck [first half of the conference] - [Video](https://www.youtube.com/watch?v=SS_pqgFziAg) - [Code](https://github.com/fonnesbeck/mcmc_pydata_london_2019/tree/master/notebooks)
+
 
 ---
 
 ### Week 8
-| Monday | 14:00 – 16:00 | Hierarchical Bayesian modelling - I |
+| Monday | 14:00 – 16:00 | Hierarchical Bayesian modeling - I |
 | --- | ---| --- |
-| Friday | 12:00 – 14:00 | Hierarchical Bayesian modelling - I |
+| Friday | 12:00 – 14:00 | Hierarchical Bayesian modeling - I |
+
+> Martin, O. (2018). Bayesian analysis with Python : introduction to statistical modeling and probabilistic programming using PyMC3 and ArviZ. Birmingham, UK: Packt Publishing. *Chapter 3*.
+
+> Kruschke, J. (2015). Doing Bayesian data analysis : a tutorial with R, JAGS, and Stan. Boston: Academic Press. *Chapter 9*.
+> 
+* BayesCog Summer 2020 Lecture 11 - Hierarchical Bayesian modeling - [Video](https://www.youtube.com/watch?v=pCIsGBbUCCE&list=PLfRTb2z8k2x9gNBypgMIj3oNLF8lqM44-&index=11)
 
 ---
 
@@ -67,12 +85,22 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 | --- | ---| --- |
 | Friday | 12:00 – 14:00 | 8 schools problem |
 
+> Kruschke, J. (2015). Doing Bayesian data analysis : a tutorial with R, JAGS, and Stan. Boston: Academic Press. *Chapter 10*.
+> 
 ---
 
 ### Week 10
 | Monday | 14:00 – 16:00 | Models comparison |
 | --- | ---| --- |
-| Friday | 12:00 – 14:00 | Models coparison |
+| Friday | 12:00 – 14:00 | Models comparison |
+
+> van de Schoot, R., Depaoli, S., King, R., Kramer, B., Märtens, K., Tadesse, M. G., Vannucci, M., Gelman, A., Veen, D., Willemsen, J., & Yau, C. (2021). Bayesian statistics and modelling. Nature Reviews Methods Primers, 1(1). https://doi.org/10.1038/s43586-020-00001-2
+
+> Martin, O. (2018). Bayesian analysis with Python : introduction to statistical modeling and probabilistic programming using PyMC3 and ArviZ. Birmingham, UK: Packt Publishing. *Chapter 5*.
+
+* The Bayesian Workflow: Building a COVID-19 Model by Thomas Wiecki [Part 1] - [Video](https://www.youtube.com/watch?v=ZxR3mw-Znzc)
+* BayesCog Summer 2020 Lecture 12 - Model comparison - [Video](https://www.youtube.com/watch?v=xmt_H2q2tO8&list=PLfRTb2z8k2x9gNBypgMIj3oNLF8lqM44-&index=12)
+
 
 ---
 
@@ -82,6 +110,8 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 | Friday | 12:00 – 14:00 | Rescorla-Wagner model |
 
 ---
+
+>Wilson, R. C., & Collins, A. G. (2019). Ten simple rules for the computational modeling of behavioral data. ELife, 8. https://doi.org/10.7554/elife.49547
 
 ### Week 12
 | Monday | 14:00 – 16:00 | Reinforcement learning |
