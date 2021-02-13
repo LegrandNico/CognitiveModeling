@@ -4,7 +4,7 @@
 
 This repository contains material for the advanced cognitive modeling course (Aarhus University). All Monday will be allocated to lectures, the practice and applications will be on Fridays. We will use Python, [PyMC3](https://docs.pymc.io/) for Bayesian modelling, [Tensorflow](https://www.tensorflow.org/) and [OpenGym](https://gym.openai.com/) for deep/reinforcement learning).
 
-**Prerequisites:** This course will be run using Python. If you have never programmed in Python, or if you have limited experience with it, you might consider to prepare using the following tutorials:
+**Prerequisites:** This course will be run using Python. Being familiar with variables, lists, dicts, the numpy and scipy libraries as well as plotting in matplotlib is required. If you have never programmed in Python, or if you have limited experience, you might consider preparing with the following tutorials:
 * [Software carpentry 1-day Python tutorial](https://swcarpentry.github.io/python-novice-inflammation/)
 * [Scipy Lecture Notes](https://scipy-lectures.org/)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
@@ -109,6 +109,8 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 | --- | ---| --- |
 | Friday | 12:00 – 14:00 | Rescorla-Wagner model |
 
+* Reinforcement Learning: Machine Learning Meets Control Theory - [Video](https://www.youtube.com/watch?v=0MNVhXEX9to)
+
 ---
 
 >Wilson, R. C., & Collins, A. G. (2019). Ten simple rules for the computational modeling of behavioral data. ELife, 8. https://doi.org/10.7554/elife.49547
@@ -117,6 +119,7 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 | Monday | 14:00 – 16:00 | Reinforcement learning |
 | --- | ---| --- |
 | Friday | 12:00 – 14:00 | Introduction to Tensorflow - Multiarmed bandit |
+
 
 ---
 
