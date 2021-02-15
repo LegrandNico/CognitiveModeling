@@ -56,13 +56,18 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 
 | Monday | 14:00 – 16:00 | Introduction to PyMC3 – MCMC – Parameter estimation |
 | --- | ---| --- |
-| Friday | 12:00 – 14:00 | Bayesian t-test – Cheating among students model |
+| Friday | 12:00 – 14:00 | Linear regression – Cheating among students model |
 
-**Exercises - 1:** [Notebook](https://github.com/LegrandNico/CognitiveModeling/blob/master/notebooks/1-Exercises.ipynb) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/1-Exercises.ipynb) - [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/raw/master/notebooks/1-Exercises.ipynb)
+This week we will focus on Chapters 1 and 2 from the book (Bayesian analysis with Python).
+
+**Exercises + Solutions - 1:** [Notebook](https://github.com/LegrandNico/CognitiveModeling/blob/master/notebooks/1-Solutions.ipynb) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/1-Solutions.ipynb) - [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/raw/master/notebooks/1-Solutions.ipynb)
 
 **Exercises - 2:** [Notebook](https://github.com/LegrandNico/CognitiveModeling/blob/master/notebooks/2-Exercises.ipynb) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/2-Exercises.ipynb) - [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/raw/master/notebooks/2-Exercises.ipynb)
 
+
 > Martin, O. (2018). Bayesian analysis with Python : introduction to statistical modeling and probabilistic programming using PyMC3 and ArviZ. Birmingham, UK: Packt Publishing. *Chapter 1 and 2*.
+
+#### Additional references and videos
 
 > Kruschke, J. (2015). Doing Bayesian data analysis : a tutorial with R, JAGS, and Stan. Boston: Academic Press. *Chapter 6 and 7*.
 
