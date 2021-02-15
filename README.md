@@ -40,7 +40,7 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 | --- | ---| --- |
 | Friday | 12:00 – 14:00 | Programming Probabilistically – Bayes' rule, distributions 
 
-**Exercises:** [Notebook](https://github.com/LegrandNico/CognitiveModeling/raw/master/notebooks/1-ThinkingProbabilistically.ipynb) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/LegrandNico/CognitiveModeling/raw/master/notebooks/1-ThinkingProbabilistically.ipynb) - [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://github.com/LegrandNico/CognitiveModeling/raw/master/notebooks/1-ThinkingProbabilistically.ipynb)
+**Exercises:** [Notebook](https://github.com/LegrandNico/CognitiveModeling/blob/master/notebooks/1-ThinkingProbabilistically.ipynb) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/1-ThinkingProbabilistically.ipynb) - [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/raw/master/notebooks/1-ThinkingProbabilistically.ipynb)
 
 >Bodner, K., Brimacombe, C., Chenery, E. S., Greiner, A., McLeod, A. M., Penk, S. R., & Vargas Soto, J. S. (2021). Ten simple rules for tackling your first mathematical models: A guide for graduate students by graduate students. PLOS Computational Biology, 17(1), e1008539. https://doi.org/10.1371/journal.pcbi.1008539
 
@@ -54,9 +54,11 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 
 ### Week 7
 
-| Monday | 14:00 – 16:00 | Introduction to PyMC3 – MCMC – Parameter estimation - Linear regression |
+| Monday | 14:00 – 16:00 | Introduction to PyMC3 – MCMC – Parameter estimation |
 | --- | ---| --- |
 | Friday | 12:00 – 14:00 | Bayesian t-test – Cheating among students model |
+
+**Exercises:** [Notebook](https://github.com/LegrandNico/CognitiveModeling/blob/master/notebooks/1-Exercises.ipynb) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/1-Exercises.ipynb) - [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/raw/master/notebooks/1-Exercises.ipynb)
 
 > Martin, O. (2018). Bayesian analysis with Python : introduction to statistical modeling and probabilistic programming using PyMC3 and ArviZ. Birmingham, UK: Packt Publishing. *Chapter 1 and 2*.
 
