@@ -80,11 +80,14 @@ This week we will focus on Chapters 1 and 2 from the book (Bayesian analysis wit
 ---
 
 ### Week 8
-| Monday | 14:00 – 16:00 | – Outliers - Cheating among students model |
+| Monday | 14:00 – 16:00 | – 7 scientist - Measurement of IQ |
 | --- | ---| --- |
 | Friday | 12:00 – 14:00 | Hierarchical Bayesian modeling |
 
 > Martin, O. (2018). Bayesian analysis with Python : introduction to statistical modeling and probabilistic programming using PyMC3 and ArviZ. Birmingham, UK: Packt Publishing. *Chapter 3*.
+
+
+**Exercises - 3:** [Notebook](https://github.com/LegrandNico/CognitiveModeling/blob/master/notebooks/3-Exercises.ipynb) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/3-Exercises.ipynb) - [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/raw/master/notebooks/3-Exercises.ipynb)
 
 #### Additional references and videos
 
