@@ -13,7 +13,7 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 
 ## Slides
 * [Introduction](https://github.com/LegrandNico/CognitiveModeling/raw/master/Slides/Advanced%20cognitive%20modeling%20%E2%80%93%20%201.1%20Introduction.pdf)
-* [Bayesian Modeling](https://github.com/LegrandNico/CognitiveModeling/raw/master/Slides/Advanced%20cognitive%20modeling%20%E2%80%93%20%201.1%20Introduction.pdf)
+* [Bayesian Modeling](https://github.com/LegrandNico/CognitiveModeling/raw/master/Slides/Advanced%20cognitive%20modeling%20%E2%80%93%20%202.Bayesian%20modeling.pdf)
 ## Schedule
 
 ### Week 5
