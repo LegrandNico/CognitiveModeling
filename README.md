@@ -11,11 +11,14 @@ This repository contains material for the advanced cognitive modeling course (Aa
 
 The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on weeks 11, Reinforcement learning on week 16 and Deep reinforcement learning on week 19).
 
+## Slides
+* [Introduction](https://github.com/LegrandNico/CognitiveModeling/raw/master/Slides/Advanced%20cognitive%20modeling%20%E2%80%93%20%201.1%20Introduction.pdf)
+* [Bayesian Modeling](https://github.com/LegrandNico/CognitiveModeling/raw/master/Slides/Advanced%20cognitive%20modeling%20%E2%80%93%20%201.1%20Introduction.pdf)
 ## Schedule
 
 ### Week 5
 
-| Friday | 12:00 – 14:00 | Presentation – Introduction to cognitive and computational modelling | [Slides](https://github.com/LegrandNico/CognitiveModeling/raw/master/Slides/Advanced%20cognitive%20modeling%20%E2%80%93%20%201.1%20Introduction.pdf)
+| Friday | 12:00 – 14:00 | Presentation – Introduction to cognitive and computational modelling | 
 | --- | ---| --- | --- |
 
 * Neuromatch Academy (W1D1 - Intro) - [Video](https://www.youtube.com/watch?v=KxldhMR5PxA) - [Slides](https://osf.io/rbx2a/?direct%26mode=render%26action=download%26mode=render)
