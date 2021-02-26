@@ -19,7 +19,7 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 ### Week 5
 
 | Friday | 12:00 – 14:00 | Presentation – Introduction to cognitive and computational modelling | 
-| --- | ---| --- | --- |
+| --- | ---| --- |
 
 * Neuromatch Academy (W1D1 - Intro) - [Video](https://www.youtube.com/watch?v=KxldhMR5PxA) - [Slides](https://osf.io/rbx2a/?direct%26mode=render%26action=download%26mode=render)
 * Neuromatch Academy (W1D1 - Outro) - [Video](https://www.youtube.com/watch?v=KZQXfQL1SH4) - [Slides](https://osf.io/9hkg2/?direct%26mode=render%26action=download%26mode=render)
@@ -43,7 +43,7 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 | --- | ---| --- |
 | Friday | 12:00 – 14:00 | Programming Probabilistically – Bayes' rule, distributions 
 
-**Exercises:** [Notebook](https://github.com/LegrandNico/CognitiveModeling/blob/master/notebooks/1-ThinkingProbabilistically.ipynb) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/1-ThinkingProbabilistically.ipynb) - [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/raw/master/notebooks/1-ThinkingProbabilistically.ipynb)
+* Coin-flipping problem. Bayes rule. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/1-ThinkingProbabilistically.ipynb) - [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/raw/master/notebooks/1-ThinkingProbabilistically.ipynb)
 
 >Bodner, K., Brimacombe, C., Chenery, E. S., Greiner, A., McLeod, A. M., Penk, S. R., & Vargas Soto, J. S. (2021). Ten simple rules for tackling your first mathematical models: A guide for graduate students by graduate students. PLOS Computational Biology, 17(1), e1008539. https://doi.org/10.1371/journal.pcbi.1008539
 
@@ -83,15 +83,15 @@ This week we will focus on Chapters 1 and 2 from the book (Bayesian analysis wit
 ---
 
 ### Week 8
-| Monday | 14:00 – 16:00 | – 7 scientist - Measurement of IQ |
+| Monday | 14:00 – 16:00 | – 7 scientists - Measurement of IQ |
 | --- | ---| --- |
-| Friday | 12:00 – 14:00 | Hierarchical Bayesian modeling |
+| Friday | 12:00 – 14:00 | Psychophysics |
 
 > Martin, O. (2018). Bayesian analysis with Python : introduction to statistical modeling and probabilistic programming using PyMC3 and ArviZ. Birmingham, UK: Packt Publishing. *Chapter 3*.
 
+* 7 scientists problem. Measurement of IQ. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/3-Exercises.ipynb) [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/raw/master/notebooks/3-Exercises.ipynb)
 
-**Exercises - 3:** [Notebook](https://github.com/LegrandNico/CognitiveModeling/blob/master/notebooks/3-Exercises.ipynb) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/3-Exercises.ipynb) - [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/raw/master/notebooks/3-Exercises.ipynb)
-
+* Psychophysics. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/3-Exercises.ipynb) [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/raw/master/notebooks/4-Exercises.ipynb)
 #### Additional references and videos
 
 > Kruschke, J. (2015). Doing Bayesian data analysis : a tutorial with R, JAGS, and Stan. Boston: Academic Press. *Chapter 9*.
@@ -101,7 +101,7 @@ This week we will focus on Chapters 1 and 2 from the book (Bayesian analysis wit
 ---
 
 ### Week 9
-| Monday | 14:00 – 16:00 | Hierarchical Bayesian modelling - II |
+| Monday | 14:00 – 16:00 | Hierarchical Bayesian modelling |
 | --- | ---| --- |
 | Friday | 12:00 – 14:00 | 8 schools problem |
 
