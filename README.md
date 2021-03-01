@@ -17,7 +17,7 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 
 ## Notebooks
 
-| Notebook | Colab | nbViewer | 
+| Notebook | Colab | nbViewer |
 | --- | ---| --- |
 | Coin-flipping problem - Bayes' rule | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/0-BayesRule.ipynb) |  [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/raw/master/notebooks/0-BayesRule.ipynb)
 | Thinking probabilistically | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/1-ThinkingProbabilistically.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/raw/master/notebooks/1-ThinkingProbabilistically.ipynb) 
