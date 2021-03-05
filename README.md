@@ -25,6 +25,7 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 | Normal distribution- Linear Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/2-LinearRegression.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/raw/master/notebooks/2-LinearRegression.ipynb)
 | 7 scientists problem - Measurement of IQ | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/3-sevenScientistsIQ.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/raw/master/notebooks/3-sevenScientistsIQ.ipynb)
 | Psychophysics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/4-Psychophysics.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/4-Psychophysics.ipynb)
+| Memory retention | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/6-MemoryRetention.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/6-MemoryRetention.ipynb)
 
 ## Schedule
 
@@ -107,7 +108,9 @@ This week we will focus on Chapters 1 and 2 from the book (Bayesian analysis wit
 | Friday | 12:00 – 14:00 | 8 schools problem |
 
 > Kruschke, J. (2015). Doing Bayesian data analysis : a tutorial with R, JAGS, and Stan. Boston: Academic Press. *Chapter 10*.
-> 
+
+* Bayesian modeling without the math: An introduction to PyMC3- [Video](https://www.youtube.com/watch?v=uxGhjXS3ILE&feature=youtu.be)
+
 ---
 
 ### Week 10
