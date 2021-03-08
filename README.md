@@ -25,6 +25,7 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 | Normal distribution- Linear Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/2-LinearRegression.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/raw/master/notebooks/2-LinearRegression.ipynb)
 | 7 scientists problem - Measurement of IQ | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/3-sevenScientistsIQ.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/raw/master/notebooks/3-sevenScientistsIQ.ipynb)
 | Psychophysics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/4-Psychophysics.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/4-Psychophysics.ipynb)
+| Exam scores | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/5-ExamScores.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/5-ExamScores.ipynb)
 | Memory retention | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/6-MemoryRetention.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/6-MemoryRetention.ipynb)
 
 ## Schedule
@@ -105,7 +106,7 @@ This week we will focus on Chapters 1 and 2 from the book (Bayesian analysis wit
 ### Week 9
 | Monday | 14:00 – 16:00 | Hierarchical Bayesian modelling |
 | --- | ---| --- |
-| Friday | 12:00 – 14:00 | 8 schools problem |
+| Friday | 12:00 – 14:00 | Memory retention |
 
 > Kruschke, J. (2015). Doing Bayesian data analysis : a tutorial with R, JAGS, and Stan. Boston: Academic Press. *Chapter 10*.
 
@@ -116,34 +117,31 @@ This week we will focus on Chapters 1 and 2 from the book (Bayesian analysis wit
 ### Week 10
 | Monday | 14:00 – 16:00 | Models comparison |
 | --- | ---| --- |
-| Friday | 12:00 – 14:00 | Models comparison |
-
-> van de Schoot, R., Depaoli, S., King, R., Kramer, B., Märtens, K., Tadesse, M. G., Vannucci, M., Gelman, A., Veen, D., Willemsen, J., & Yau, C. (2021). Bayesian statistics and modelling. Nature Reviews Methods Primers, 1(1). https://doi.org/10.1038/s43586-020-00001-2
+| Friday | 12:00 – 14:00 | Models comparison - Group difference |
 
 > Martin, O. (2018). Bayesian analysis with Python : introduction to statistical modeling and probabilistic programming using PyMC3 and ArviZ. Birmingham, UK: Packt Publishing. *Chapter 5*.
 
+#### Additional references and videos
+
+> van de Schoot, R., Depaoli, S., King, R., Kramer, B., Märtens, K., Tadesse, M. G., Vannucci, M., Gelman, A., Veen, D., Willemsen, J., & Yau, C. (2021). Bayesian statistics and modelling. Nature Reviews Methods Primers, 1(1). https://doi.org/10.1038/s43586-020-00001-2
+
 * The Bayesian Workflow: Building a COVID-19 Model by Thomas Wiecki [Part 1] - [Video](https://www.youtube.com/watch?v=ZxR3mw-Znzc)
 * BayesCog Summer 2020 Lecture 12 - Model comparison - [Video](https://www.youtube.com/watch?v=xmt_H2q2tO8&list=PLfRTb2z8k2x9gNBypgMIj3oNLF8lqM44-&index=12)
-
+* Intro to Bayesian Model Evaluation, Visualization, & Comparison Using ArviZ | SciPy 2019 Tutorial - [Video](https://www.youtube.com/watch?v=bmWMdVQlzIA)
 
 ---
 
 ### Week 11
-| Monday | 14:00 – 16:00 | Introduction to reinforcement learning |
+| Monday | 14:00 – 16:00 | Generalizing linear models |
 | --- | ---| --- |
-| Friday | 12:00 – 14:00 | Rescorla-Wagner model |
-
-* Reinforcement Learning: Machine Learning Meets Control Theory - [Video](https://www.youtube.com/watch?v=0MNVhXEX9to)
+| Friday | 12:00 – 14:00 | Mixture models |
 
 ---
 
->Wilson, R. C., & Collins, A. G. (2019). Ten simple rules for the computational modeling of behavioral data. ELife, 8. https://doi.org/10.7554/elife.49547
-
 ### Week 12
-| Monday | 14:00 – 16:00 | Reinforcement learning |
+| Monday | 14:00 – 16:00 | Time series |
 | --- | ---| --- |
-| Friday | 12:00 – 14:00 | Introduction to Tensorflow - Multiarmed bandit |
-
+| Friday | 12:00 – 14:00 | Bayesian neural networks |
 
 ---
 
@@ -152,40 +150,44 @@ This week we will focus on Chapters 1 and 2 from the book (Bayesian analysis wit
 ---
 
 ### Week 14
-| Friday | 12:00 – 14:00 | Introduction to Open AI Gym + Tensorflow
+| Friday | 12:00 – 14:00 | Introduction to reinforcement learning - Multiarmed bandit
 | --- | ---| --- |
+
+* Reinforcement Learning: Machine Learning Meets Control Theory - [Video](https://www.youtube.com/watch?v=0MNVhXEX9to)
 
 ---
 
 ### Week 15
-| Monday | 14:00 – 16:00 | Reinforcement learning applications |
+| Monday | 14:00 – 16:00 | Rescola-Wagner |
 | --- | ---| --- |
-| Friday | 12:00 – 14:00 | Case study: Wise and Dolan (2020) |
+| Friday | 12:00 – 14:00 | Applications to computational psychiatry - Case study: Wise and Dolan (2020) |
 
 ---
 
 ### Week 16
-|Monday | 14:00 – 6:00 | Deep reinforcement learning               
+|Monday | 14:00 – 6:00 | Reinforcement learning - OpenAI Gym               
 | --- | ---| --- |
-|Friday | 12:00 – 14:00 | Deep reinforcement learning with Tensorflow               
+|Friday | 12:00 – 14:00 | Reinforcement learning - OpenAI Gym  
 
 ---
 
 ### Week 17
-| Monday | 14:00 – 16:00 | Deep reinforcement learning applications |
+| Monday | 14:00 – 16:00 | Applications to computational psychiatry - Case study: Wilson & Collins (2019) |
 | --- | ---| --- |
+
+>Wilson, R. C., & Collins, A. G. (2019). Ten simple rules for the computational modeling of behavioral data. ELife, 8. https://doi.org/10.7554/elife.49547
 
 ---
 
 ### Week 18
-| Monday | 14:00 – 16:00 | Recurrent neural networks (RNN)               
+| Monday | 14:00 – 16:00 | Deep reinforcement learning - Tensorflow              
 | --- | ---| --- |
-| Friday | 12:00 – 14:00 | Introduction to PsychRNN               
+| Friday | 12:00 – 14:00 | Deep reinforcement learning - Tensorflow
 
 ---
 
 ### Week 19
-| Monday | 14:00 – 16:00 | Recurrent neural networks application
+| Monday | 14:00 – 16:00 | Recurrent neural networks (RNN)
 | --- | ---| --- |
 | Wednesday | 12:00 – 14:00 | PsychRNN
  
