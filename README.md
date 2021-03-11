@@ -27,6 +27,7 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 | Psychophysics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/4-Psychophysics.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/4-Psychophysics.ipynb)
 | Exam scores | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/5-ExamScores.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/5-ExamScores.ipynb)
 | Memory retention | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/6-MemoryRetention.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/6-MemoryRetention.ipynb)
+| Model Comparison | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/7-ModelComparison.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/7-ModelComparison.ipynb)
 
 ## Schedule
 
@@ -115,12 +116,15 @@ This week we will focus on Chapters 1 and 2 from the book (Bayesian analysis wit
 ---
 
 ### Week 10
-| Monday | 14:00 – 16:00 | Models comparison |
+
+|  |  | Course content |
 | --- | ---| --- |
-| Friday | 12:00 – 14:00 | Models comparison - Group difference |
+| Monday | 14:00 – 16:00 | **Models comparison** Ch.5 (part I) - Comparing linear models |
+| Friday | 12:00 – 14:00 | **Models comparison** Ch.5 (part II) - Bayes factors, exercises with group difference, one sample t test, repeated measures |
 
 > Martin, O. (2018). Bayesian analysis with Python : introduction to statistical modeling and probabilistic programming using PyMC3 and ArviZ. Birmingham, UK: Packt Publishing. *Chapter 5*.
 
+>Lee, M. & Wagenmakers. (2013). Bayesian cognitive modeling : a practical course. Cambridge New York: Cambridge University Press. *Chapter 8*.
 #### Additional references and videos
 
 > van de Schoot, R., Depaoli, S., King, R., Kramer, B., Märtens, K., Tadesse, M. G., Vannucci, M., Gelman, A., Veen, D., Willemsen, J., & Yau, C. (2021). Bayesian statistics and modelling. Nature Reviews Methods Primers, 1(1). https://doi.org/10.1038/s43586-020-00001-2
@@ -132,16 +136,22 @@ This week we will focus on Chapters 1 and 2 from the book (Bayesian analysis wit
 ---
 
 ### Week 11
-| Monday | 14:00 – 16:00 | Generalizing linear models |
+|  |  | Course content |
 | --- | ---| --- |
-| Friday | 12:00 – 14:00 | Mixture models |
+| Monday | 14:00 – 16:00 | **Generalizing linear models** - Course and live coding covering Ch.4 and exercises on using GLM during the second hour |
+| Friday | 12:00 – 14:00 | **Mixture models** - Course and live coding covering Ch.6 and exercises with mixture models during the second hour |
+
+> Martin, O. (2018). Bayesian analysis with Python : introduction to statistical modeling and probabilistic programming using PyMC3 and ArviZ. Birmingham, UK: Packt Publishing. *Chapter 4 & 6*.
 
 ---
 
 ### Week 12
-| Monday | 14:00 – 16:00 | Time series |
+|  |  | Course content |
 | --- | ---| --- |
-| Friday | 12:00 – 14:00 | Bayesian neural networks |
+| Monday | 14:00 – 16:00 | **Time series** - Introduction to time series analyses with PyMC3, exercises on change points and seasonality during the second hour |
+| Friday | 12:00 – 14:00 | **Bayesian neural networks** - Introduction to neural networks and Bayesian neural networks + variational inference - exercises with a simple classification problem |
+
+* Hierarchical Time Series With Prophet and PyMC3 by Matthijs Brouns - [Video](https://www.youtube.com/watch?v=appLxcMLT9Y)
 
 ---
 
@@ -150,8 +160,9 @@ This week we will focus on Chapters 1 and 2 from the book (Bayesian analysis wit
 ---
 
 ### Week 14
-| Friday | 12:00 – 14:00 | Introduction to reinforcement learning - Multiarmed bandit
+|  |  | Course content |
 | --- | ---| --- |
+| Friday | 12:00 – 14:00 | **Introduction to reinforcement learning** - Multiarmed bandit
 
 * Reinforcement Learning: Machine Learning Meets Control Theory - [Video](https://www.youtube.com/watch?v=0MNVhXEX9to)
 
@@ -160,14 +171,14 @@ This week we will focus on Chapters 1 and 2 from the book (Bayesian analysis wit
 ### Week 15
 | Monday | 14:00 – 16:00 | Rescola-Wagner |
 | --- | ---| --- |
-| Friday | 12:00 – 14:00 | Applications to computational psychiatry - Case study: Wise and Dolan (2020) |
+| Friday | 12:00 – 14:00 | Frozen lake |
 
 ---
 
 ### Week 16
 |Monday | 14:00 – 6:00 | Reinforcement learning - OpenAI Gym               
 | --- | ---| --- |
-|Friday | 12:00 – 14:00 | Reinforcement learning - OpenAI Gym  
+|Friday | 12:00 – 14:00 | Applications to computational psychiatry - Case study: Wise and Dolan (2020)  
 
 ---
 
