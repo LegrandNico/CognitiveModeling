@@ -11,11 +11,11 @@ This repository contains material for the advanced cognitive modeling course (Aa
 
 The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on weeks 11, Reinforcement learning on week 16 and Deep reinforcement learning on week 19).
 
-## Slides
+# Slides
 * [Introduction](https://github.com/LegrandNico/CognitiveModeling/raw/master/Slides/Advanced%20cognitive%20modeling%20%E2%80%93%20%201.1%20Introduction.pdf)
 * [Bayesian Modeling](https://github.com/LegrandNico/CognitiveModeling/raw/master/Slides/Advanced%20cognitive%20modeling%20%E2%80%93%20%202.Bayesian%20modeling.pdf)
 
-## Notebooks
+# Notebooks
 
 | Notebook | Colab | nbViewer |
 | --- | ---| --- |
@@ -31,12 +31,16 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 | Comparing gaussian means | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/8-ComparingGaussianMeans.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/8-ComparingGaussianMeans.ipynb)
 | GLM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/9-GLM.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/9-GLM.ipynb)
 
-## Portfolios
+# Portfolios
 
 | Notebook | Colab | nbViewer |
 | --- | ---| --- |
 | Portfolio 1 - deadline:  03.22.2021 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/portfolio1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/portfolio1.ipynb)
-## Schedule
+# Schedule
+
+---
+## Introduction
+---
 
 ### Week 5
 
@@ -74,7 +78,8 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 * Neuromatch Academy (W1D2 - Tutorials) - [Videos](https://youtu.be/x4b2-hZoyiY?list=PLkBQOLLbi18Nc7rjBNO99bZQyuTY0TAcE) - [Slides](https://osf.io/kygfn/?direct%26mode=render%26action=download%26mode=render)
 
 ---
-
+## Bayesian modeling
+---
 ### Week 7
 
 | Monday | 14:00 – 16:00 | Introduction to PyMC3 – MCMC – Parameter estimation |
@@ -173,19 +178,28 @@ This week we will focus on Chapters 1 and 2 from the book (Bayesian analysis wit
 
 ---
 
+## Reinforcement learning
+For the (deep) reinforcement learning part of the course, we will be using *Reinforcement leasrning: An introduction* *(Sutton & Barto, 2018)*. You can download the book [here](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf). The core concepts of reinforcement learning are nicely introduced in Chris Willcoks' Reinforcement learning course (see the [Videos](https://www.youtube.com/playlist?list=PLMsTLcO6ettgmyLVrcPvFLYi2Rs-R4JOE) and [Slides](https://cwkx.github.io/teaching.html). The Neuromatch academy session focused on reinforcement learning is also highly recommended (see course material [here](https://www.neuromatchacademy.org/syllabus)). You can find Colab notebooks accompagning all these courses online.
+
+---
 ### Week 14
 |  |  | Course content |
 | --- | ---| --- |
 | Friday | 12:00 – 14:00 | **Introduction to reinforcement learning** - Multiarmed bandit
 
+* Neuromatch Reinforcement Learning Intro - Doina Precup [Video](https://www.youtube.com/watch?v=abEarxx6Kgc)
+* Neuromatch Reinforcement Learning Outro - Tim Behrens [Video](https://www.youtube.com/watch?v=abEarxx6Kgc)
 * Reinforcement Learning: Machine Learning Meets Control Theory - [Video](https://www.youtube.com/watch?v=0MNVhXEX9to)
+* Reinforcement Learning 1: Foundations - Chris Willcocks - [Video](https://www.youtube.com/watch?v=K67RJH3V7Yw&list=PLMsTLcO6ettgmyLVrcPvFLYi2Rs-R4JOE&index=2) - [Slides](https://cwkx.github.io/data/teaching/dl-and-rl/rl-lecture1.pdf)
+
+#### Additional references and videos
 
 ---
 
 ### Week 15
 | Monday | 14:00 – 16:00 | Rescola-Wagner |
 | --- | ---| --- |
-| Friday | 12:00 – 14:00 | Frozen lake |
+| Friday | 12:00 – 14:00 | Frozen lake environment |
 
 ---
 
@@ -205,14 +219,14 @@ This week we will focus on Chapters 1 and 2 from the book (Bayesian analysis wit
 ---
 
 ### Week 18
-| Monday | 14:00 – 16:00 | Deep reinforcement learning - Tensorflow              
+| Monday | 14:00 – 16:00 | Deep reinforcement learning
 | --- | ---| --- |
-| Friday | 12:00 – 14:00 | Deep reinforcement learning - Tensorflow
+| Friday | 12:00 – 14:00 | Deep reinforcement learning
 
 ---
 
 ### Week 19
-| Monday | 14:00 – 16:00 | Recurrent neural networks (RNN)
+| Monday | 14:00 – 16:00 | Deep reinforcement learning
 | --- | ---| --- |
-| Wednesday | 12:00 – 14:00 | PsychRNN
+| Wednesday | 12:00 – 14:00 | Deep reinforcement learning
  
