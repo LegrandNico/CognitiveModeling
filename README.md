@@ -29,7 +29,7 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 | Memory retention | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/6-MemoryRetention.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/6-MemoryRetention.ipynb)
 | Model Comparison | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/7-ModelComparison.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/7-ModelComparison.ipynb)
 | Comparing gaussian means | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/8-ComparingGaussianMeans.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/8-ComparingGaussianMeans.ipynb)
-
+| GLM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/9-GLM.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/9-GLM.ipynb)
 
 ## Portfolios
 
@@ -149,6 +149,13 @@ This week we will focus on Chapters 1 and 2 from the book (Bayesian analysis wit
 | Friday | 12:00 – 14:00 | **Mixture models** - Course and live coding covering Ch.6 and exercises with mixture models during the second hour |
 
 > Martin, O. (2018). Bayesian analysis with Python : introduction to statistical modeling and probabilistic programming using PyMC3 and ArviZ. Birmingham, UK: Packt Publishing. *Chapter 4 & 6*.
+
+#### Additional references and videos
+> > Kruschke, J. (2015). Doing Bayesian data analysis : a tutorial with R, JAGS, and Stan. Boston: Academic Press. *Chapter 15*.
+
+[GLM - Linear regression](https://docs.pymc.io/notebooks/GLM-linear.html) (PyMC3 documentation)
+[GLM - Robust linear regression](https://docs.pymc.io/notebooks/GLM-robust.html) (PyMC3 documentation)
+[GLM - Hierarchical linear regression](https://docs.pymc.io/notebooks/GLM-hierarchical.html) (PyMC3 documentation)
 
 ---
 
