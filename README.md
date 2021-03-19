@@ -30,6 +30,7 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 | Model Comparison | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/7-ModelComparison.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/7-ModelComparison.ipynb)
 | Comparing gaussian means | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/8-ComparingGaussianMeans.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/8-ComparingGaussianMeans.ipynb)
 | GLM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/9-GLM.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/9-GLM.ipynb)
+| Mixture models | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/10-MixtureModels.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/10-MixtureModels.ipynb)
 
 # Portfolios
 
@@ -168,7 +169,7 @@ This week we will focus on Chapters 1 and 2 from the book (Bayesian analysis wit
 |  |  | Course content |
 | --- | ---| --- |
 | Monday | 14:00 – 16:00 | **Time series** - Introduction to time series analyses with PyMC3, exercises on change points and seasonality during the second hour |
-| Friday | 12:00 – 14:00 | **Bayesian neural networks** - Introduction to neural networks and Bayesian neural networks + variational inference - exercises with a simple classification problem |
+| Friday | 12:00 – 14:00 | **Time series** - Hidden Markov models |
 
 * Hierarchical Time Series With Prophet and PyMC3 by Matthijs Brouns - [Video](https://www.youtube.com/watch?v=appLxcMLT9Y)
 
@@ -228,5 +229,5 @@ For the (deep) reinforcement learning part of the course, we will be using *Rein
 ### Week 19
 | Monday | 14:00 – 16:00 | Deep reinforcement learning
 | --- | ---| --- |
-| Wednesday | 12:00 – 14:00 | Deep reinforcement learning
+| Wednesday | 12:00 – 14:00 | **Bayesian neural networks** - Introduction to neural networks and Bayesian neural networks + variational inference - exercises with a simple classification problem
  
