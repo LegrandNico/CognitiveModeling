@@ -168,10 +168,18 @@ This week we will focus on Chapters 1 and 2 from the book (Bayesian analysis wit
 ### Week 12
 |  |  | Course content |
 | --- | ---| --- |
-| Monday | 14:00 – 16:00 | **Time series** - Introduction to time series analyses with PyMC3, exercises on change points and seasonality during the second hour |
-| Friday | 12:00 – 14:00 | **Time series** - Hidden Markov models |
+| Monday | 14:00 – 16:00 | **Time series** - Introduction to Markov processes and hidden markov models for sequential data analysis in base Python |
+| Friday | 12:00 – 14:00 | **Time series** - Hidden Markov models using PyMC3 |
+
+* Markov Models From The Bottom Up, with Python, Eric Ma - [link](https://ericmjl.github.io/essays-on-data-science/machine-learning/markov-models/)
+
+#### Additional references and videos
 
 * Hierarchical Time Series With Prophet and PyMC3 by Matthijs Brouns - [Video](https://www.youtube.com/watch?v=appLxcMLT9Y)
+
+* Scott Linderman, Machine Learning Methods for Neural Data Analysis, 2021 Stanford University - [Github repos](https://github.com/slinderman/stats320)
+
+* Neuromatch, W2D3 Decision Making Intro - [Video](https://www.youtube.com/watch?v=bJIAWgycuVU)
 
 ---
 
