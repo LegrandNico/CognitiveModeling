@@ -182,6 +182,8 @@ This week we will focus on Chapters 1 and 2 from the book (Bayesian analysis wit
 * Neuromatch, W2D3 Decision Making Intro - [Video](https://www.youtube.com/watch?v=bJIAWgycuVU)
 
 * Ankan, A. & Panda, A. (2018). Hands-On Markov Models with Python. Birmingham: Packt Publishing.
+  
+* https://github.com/LegrandNico/hmm-mne
 ---
 
 ### Week 13 - No class
