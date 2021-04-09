@@ -17,6 +17,8 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 
 # Notebooks
 
+## Bayesian modeling
+
 | Notebook | Colab | nbViewer |
 | --- | ---| --- |
 | Coin-flipping problem - Bayes' rule | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/0-BayesRule.ipynb) |  [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/raw/master/notebooks/0-BayesRule.ipynb)
@@ -31,6 +33,8 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 | Comparing gaussian means | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/8-ComparingGaussianMeans.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/8-ComparingGaussianMeans.ipynb)
 | GLM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/9-GLM.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/9-GLM.ipynb)
 | Mixture models | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/10-MixtureModels.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/10-MixtureModels.ipynb)
+
+## Reinforcement learning
 
 # Portfolios
 
@@ -197,48 +201,60 @@ For the (deep) reinforcement learning part of the course, we will be using *Rein
 ### Week 14
 |  |  | Course content |
 | --- | ---| --- |
-| Friday | 12:00 – 14:00 | **Introduction to reinforcement learning** - Multiarmed bandit
+| Friday | 12:00 – 14:00 | **Introduction to reinforcement learning** - Key concepts of reiinforcement learning and deep reinforcement learning. Introduction to the OpenAI Gym environment. Going through the first part of the chapter during the second hour.
+
+#### Additional references and videos
 
 * Neuromatch Reinforcement Learning Intro - Doina Precup [Video](https://www.youtube.com/watch?v=abEarxx6Kgc)
 * Neuromatch Reinforcement Learning Outro - Tim Behrens [Video](https://www.youtube.com/watch?v=abEarxx6Kgc)
 * Reinforcement Learning: Machine Learning Meets Control Theory - [Video](https://www.youtube.com/watch?v=0MNVhXEX9to)
+* Deep Reinforcement Learning: Neural Networks for Learning Control Laws - [Video](https://www.youtube.com/watch?v=IUiKAD6cuTA)
 * Reinforcement Learning 1: Foundations - Chris Willcocks - [Video](https://www.youtube.com/watch?v=K67RJH3V7Yw&list=PLMsTLcO6ettgmyLVrcPvFLYi2Rs-R4JOE&index=2) - [Slides](https://cwkx.github.io/data/teaching/dl-and-rl/rl-lecture1.pdf)
-
-#### Additional references and videos
 
 ---
 
 ### Week 15
-| Monday | 14:00 – 16:00 | Rescola-Wagner |
+|  |  | Course content |
 | --- | ---| --- |
-| Friday | 12:00 – 14:00 | Frozen lake environment |
+| Monday | 14:00 – 16:00 | OpeAI Gym |
+| Friday | 12:00 – 14:00 | **Markov Decision Process**. Bellman Equation. Value and Policy iteration algorithms. |
+
+> Géron, A. (2019). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow : concepts, tools, and techniques to build intelligent systems. Sebastopol, CA: O'Reilly Media, Inc. *Ch.18. Reinforcement learning*.
+
+#### Additional references and videos
+* Reinforcement Learning 2: Markov Decision Processes [Video](https://www.youtube.com/watch?v=RmOdTQYQqmQ&list=PLMsTLcO6ettgmyLVrcPvFLYi2Rs-R4JOE&index=2)
+* Reinforcement Learning 3: OpenAI Gym - Adam Leach - [Video](https://www.youtube.com/watch?v=BNSwFURmaCA&list=PLMsTLcO6ettgmyLVrcPvFLYi2Rs-R4JOE&index=3)
 
 ---
 
 ### Week 16
-|Monday | 14:00 – 6:00 | Reinforcement learning - OpenAI Gym               
+|  |  | Course content |
 | --- | ---| --- |
-|Friday | 12:00 – 14:00 | Applications to computational psychiatry - Case study: Wise and Dolan (2020)  
+|Monday | 14:00 – 6:00 | Multiarmed bandits |            
+|Friday | 12:00 – 14:00 | Applications to computational psychiatry - Case study: Wise and Dolan (2020) - Frozen lake environment
 
 ---
 
 ### Week 17
-| Monday | 14:00 – 16:00 | Applications to computational psychiatry - Case study: Wilson & Collins (2019) |
+|  |  | Course content |
 | --- | ---| --- |
+| Monday | 14:00 – 16:00 | Applications to computational psychiatry - Case study: Wilson & Collins (2019) |
 
 >Wilson, R. C., & Collins, A. G. (2019). Ten simple rules for the computational modeling of behavioral data. ELife, 8. https://doi.org/10.7554/elife.49547
 
 ---
 
 ### Week 18
-| Monday | 14:00 – 16:00 | Deep reinforcement learning
+|  |  | Course content |
 | --- | ---| --- |
+| Monday | 14:00 – 16:00 | Deep reinforcement learning
 | Friday | 12:00 – 14:00 | Deep reinforcement learning
 
 ---
 
 ### Week 19
-| Monday | 14:00 – 16:00 | Deep reinforcement learning
+|  |  | Course content |
 | --- | ---| --- |
+| Monday | 14:00 – 16:00 | Deep reinforcement learning
 | Wednesday | 12:00 – 14:00 | **Bayesian neural networks** - Introduction to neural networks and Bayesian neural networks + variational inference - exercises with a simple classification problem
  
