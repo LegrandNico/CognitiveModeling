@@ -14,6 +14,7 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 # Slides
 * [Introduction](https://github.com/LegrandNico/CognitiveModeling/raw/master/Slides/Advanced%20cognitive%20modeling%20%E2%80%93%20%201.1%20Introduction.pdf)
 * [Bayesian Modeling](https://github.com/LegrandNico/CognitiveModeling/raw/master/Slides/Advanced%20cognitive%20modeling%20%E2%80%93%20%202.Bayesian%20modeling.pdf)
+* [Reinforcement Learning](https://github.com/LegrandNico/CognitiveModeling/raw/master/Slides/Advanced%20cognitive%20modeling%20%E2%80%93%20%203.Reinforcement%20learning.pdf)
 
 # Notebooks
 
@@ -79,6 +80,8 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 | Friday | 12:00 – 14:00 | Programming Probabilistically – Bayes' rule, distributions 
 
 >Bodner, K., Brimacombe, C., Chenery, E. S., Greiner, A., McLeod, A. M., Penk, S. R., & Vargas Soto, J. S. (2021). Ten simple rules for tackling your first mathematical models: A guide for graduate students by graduate students. PLOS Computational Biology, 17(1), e1008539. https://doi.org/10.1371/journal.pcbi.1008539
+
+> >Wilson, R. C., & Collins, A. G. (2019). Ten simple rules for the computational modeling of behavioral data. ELife, 8. https://doi.org/10.7554/elife.49547
 
 >Blohm, G., Kording, K. P., & Schrater, P. R. (2020). A How-to-Model Guide for Neuroscience. Eneuro, 7(1), ENEURO.0352-19.2019. https://doi.org/10.1523/eneuro.0352-19.2019
 
@@ -221,38 +224,50 @@ For the (deep) reinforcement learning part of the course, we will be using *Rein
 |  |  | Course content |
 | --- | ---| --- |
 | Monday | 14:00 – 16:00 | OpeAI Gym |
-| Friday | 12:00 – 14:00 | **Markov Decision Process**. Bellman Equation. Value and Policy iteration algorithms. |
+| Friday | 12:00 – 14:00 | **Markov Decision Process**. Bellman Equations. |
 
 > Géron, A. (2019). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow : concepts, tools, and techniques to build intelligent systems. Sebastopol, CA: O'Reilly Media, Inc. *Ch.18. Reinforcement learning*.
 
+> Sutton, R. & Barto, A. (2018). Reinforcement learning : an introduction. Cambridge, Massachusetts London, England: The MIT Press. *Ch.3. Finite Markov Decision Processes*
+
 #### Additional references and videos
-* Reinforcement Learning 2: Markov Decision Processes [Video](https://www.youtube.com/watch?v=RmOdTQYQqmQ&list=PLMsTLcO6ettgmyLVrcPvFLYi2Rs-R4JOE&index=2)
+* Reinforcement Learning 2: Markov Decision Processes - Chris Willcocks - [Video](https://www.youtube.com/watch?v=RmOdTQYQqmQ&list=PLMsTLcO6ettgmyLVrcPvFLYi2Rs-R4JOE&index=2)
 * Reinforcement Learning 3: OpenAI Gym - Adam Leach - [Video](https://www.youtube.com/watch?v=BNSwFURmaCA&list=PLMsTLcO6ettgmyLVrcPvFLYi2Rs-R4JOE&index=3)
+
+>Pulcu, E., & Browning, M. (2019). The Misestimation of Uncertainty in Affective Disorders. *Trends in Cognitive Sciences, 23(10), 865–875*. https://doi.org/10.1016/j.tics.2019.07.007 
+
+>Botvinick, M., Ritter, S., Wang, J. X., Kurth-Nelson, Z., Blundell, C., & Hassabis, D. (2019). Reinforcement Learning, Fast and Slow. *Trends in Cognitive Sciences, 23(5), 408–422*. https://doi.org/10.1016/j.tics.2019.02.006
 
 ---
 
 ### Week 16
 |  |  | Course content |
 | --- | ---| --- |
-|Monday | 14:00 – 6:00 | Multiarmed bandits |            
-|Friday | 12:00 – 14:00 | Applications to computational psychiatry - Case study: Wise and Dolan (2020) - Frozen lake environment
+|Monday | 14:00 – 16:00 | **Markov Decision Process** Dynamic programming. Value and Policy iteration algorithms. |            
+|Friday | 12:00 – 14:00 | **Markov Decision Process** Frozen lake environment. Applications to computational psychiatry Zorowitz et al. (2020)
 
+>Zorowitz, S., Momennejad, I., & Daw, N. D. (2020). Anxiety, Avoidance, and Sequential Evaluation. *Computational Psychiatry, 4(0), 1*. https://doi.org/10.1162/cpsy_a_00026
+
+>> Sutton, R. & Barto, A. (2018). Reinforcement learning : an introduction. Cambridge, Massachusetts London, England: The MIT Press. *Ch.4. Dynamic programming*
+
+#### Additional references and videos
+
+* Reinforcement Learning 4: Dynamic Programming - Chris Willcocks - [Video](https://www.youtube.com/watch?v=gqC_p2XWpLU)
 ---
 
 ### Week 17
 |  |  | Course content |
 | --- | ---| --- |
-| Monday | 14:00 – 16:00 | Applications to computational psychiatry - Case study: Wilson & Collins (2019) |
-
->Wilson, R. C., & Collins, A. G. (2019). Ten simple rules for the computational modeling of behavioral data. ELife, 8. https://doi.org/10.7554/elife.49547
+| Monday | 14:00 – 16:00 | Q-learning |
 
 ---
 
 ### Week 18
 |  |  | Course content |
 | --- | ---| --- |
-| Monday | 14:00 – 16:00 | Deep reinforcement learning
-| Friday | 12:00 – 14:00 | Deep reinforcement learning
+| Monday | 14:00 – 16:00 | Q-learning
+| Friday | 12:00 – 14:00 | Q-learning
+
 
 ---
 
@@ -260,5 +275,5 @@ For the (deep) reinforcement learning part of the course, we will be using *Rein
 |  |  | Course content |
 | --- | ---| --- |
 | Monday | 14:00 – 16:00 | Deep reinforcement learning
-| Wednesday | 12:00 – 14:00 | **Bayesian neural networks** - Introduction to neural networks and Bayesian neural networks + variational inference - exercises with a simple classification problem
+| Wednesday | 12:00 – 14:00 | Deep reinforcement learning
  
