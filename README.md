@@ -46,6 +46,7 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 | Notebook | Colab | nbViewer |
 | --- | ---| --- |
 | Portfolio 1 - deadline:  03.22.2021 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/portfolio1.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/portfolio1.ipynb)
+| Portfolio 2 - deadline:  04.30.2021 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/portfolio2.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/portfolio2.ipynb)
 # Schedule
 
 ---
@@ -248,7 +249,7 @@ For the (deep) reinforcement learning part of the course, we will be using *Rein
 
 >Zorowitz, S., Momennejad, I., & Daw, N. D. (2020). Anxiety, Avoidance, and Sequential Evaluation. *Computational Psychiatry, 4(0), 1*. https://doi.org/10.1162/cpsy_a_00026
 
->> Sutton, R. & Barto, A. (2018). Reinforcement learning : an introduction. Cambridge, Massachusetts London, England: The MIT Press. *Ch.4. Dynamic programming*
+> Sutton, R. & Barto, A. (2018). Reinforcement learning : an introduction. Cambridge, Massachusetts London, England: The MIT Press. *Ch.4. Dynamic programming*
 
 #### Additional references and videos
 
