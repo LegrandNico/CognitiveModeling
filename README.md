@@ -247,13 +247,16 @@ For the (deep) reinforcement learning part of the course, we will be using *Rein
 |Monday | 14:00 – 16:00 | **Markov Decision Process** Dynamic programming. Value and Policy iteration algorithms. |            
 |Friday | 12:00 – 14:00 | **Markov Decision Process** Frozen lake environment. Applications to computational psychiatry Zorowitz et al. (2020)
 
->Zorowitz, S., Momennejad, I., & Daw, N. D. (2020). Anxiety, Avoidance, and Sequential Evaluation. *Computational Psychiatry, 4(0), 1*. https://doi.org/10.1162/cpsy_a_00026
-
-> Sutton, R. & Barto, A. (2018). Reinforcement learning : an introduction. Cambridge, Massachusetts London, England: The MIT Press. *Ch.4. Dynamic programming*
+> Sutton, R. & Barto, A. (2018). Reinforcement learning : an introduction. Cambridge, Massachusetts London, England: The MIT Press. *Ch.4. Dynamic Programming*
 
 #### Additional references and videos
 
-* Reinforcement Learning 4: Dynamic Programming - Chris Willcocks - [Video](https://www.youtube.com/watch?v=gqC_p2XWpLU)
+* Reinforcement Learning 4: Dynamic Programming - Chris Willcocks - [Video](https://www.youtube.com/watch?v=gqC_p2XWpLU) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/cwkx/670c8d44a9a342355a4a883c498dbc9d/dynamic-programming.ipynb)
+
+> Juechems, K., & Summerfield, C. (2019). Where Does Value Come From? Trends in Cognitive Sciences, 23(10), 836–850. https://doi.org/10.1016/j.tics.2019.07.012
+
+> >Zorowitz, S., Momennejad, I., & Daw, N. D. (2020). Anxiety, Avoidance, and Sequential Evaluation. *Computational Psychiatry, 4(0), 1*. https://doi.org/10.1162/cpsy_a_00026
+
 ---
 
 ### Week 17
