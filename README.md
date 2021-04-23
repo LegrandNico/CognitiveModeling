@@ -255,7 +255,7 @@ For the (deep) reinforcement learning part of the course, we will be using *Rein
 
 > Juechems, K., & Summerfield, C. (2019). Where Does Value Come From? Trends in Cognitive Sciences, 23(10), 836–850. https://doi.org/10.1016/j.tics.2019.07.012
 
-> >Zorowitz, S., Momennejad, I., & Daw, N. D. (2020). Anxiety, Avoidance, and Sequential Evaluation. *Computational Psychiatry, 4(0), 1*. https://doi.org/10.1162/cpsy_a_00026
+> Zorowitz, S., Momennejad, I., & Daw, N. D. (2020). Anxiety, Avoidance, and Sequential Evaluation. *Computational Psychiatry, 4(0), 1*. https://doi.org/10.1162/cpsy_a_00026
 
 ---
 
@@ -279,5 +279,6 @@ For the (deep) reinforcement learning part of the course, we will be using *Rein
 |  |  | Course content |
 | --- | ---| --- |
 | Monday | 14:00 – 16:00 | Deep reinforcement learning
-| Wednesday | 12:00 – 14:00 | Deep reinforcement learning
- 
+| Wednesday | 12:00 – 14:00 | **Invited lecture**: Joshua Skeve - National Inequality and Individual Readiness to Cooperate
+
+> Skewes, J. (2020, October 29). National Inequality and Individual Readiness to Cooperate. https://doi.org/10.31234/osf.io/f79rw 
