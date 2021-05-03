@@ -41,6 +41,7 @@ The portfolio will consist of 3 Jupyter notebook exercises (Bayesian modeling on
 | --- | ---| --- |
 | OpenAI Gym | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/11-OpenAIGym.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/11-OpenAIGym.ipynb)
 | Q-learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/12-Q-learning.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/12-Q-learning.ipynb)
+| Deep Q-learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LegrandNico/CognitiveModeling/blob/master/notebooks/13-DeepQ-learning.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/LegrandNico/CognitiveModeling/blob/master/notebooks/13-DeepQ-learning.ipynb)
 
 # Portfolios
 
@@ -270,16 +271,19 @@ For the (deep) reinforcement learning part of the course, we will be using *Rein
 ### Week 18
 |  |  | Course content |
 | --- | ---| --- |
-| Monday | 14:00 – 16:00 | Q-learning
-| Friday | 12:00 – 14:00 | Q-learning
+| Monday | 14:00 – 16:00 | Deep Q-learning - CartPole example
+| Friday | 12:00 – 14:00 | Deep Q-learning - Portfolio 2 (correction)
 
+> Géron, A. (2019). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow : concepts, tools, and techniques to build intelligent systems. Sebastopol, CA: O'Reilly Media, Inc. *Ch.18. Reinforcement learning*.
+
+MIT 6.S091: Introduction to Deep Reinforcement Learning (Deep RL) - [Video](https://www.youtube.com/watch?v=zR11FLZ-O9M)
 
 ---
 
 ### Week 19
 |  |  | Course content |
 | --- | ---| --- |
-| Monday | 14:00 – 16:00 | Deep reinforcement learning
+| Monday | 14:00 – 16:00 | Deep Q-learning
 | Wednesday | 12:00 – 14:00 | **Invited lecture**: Joshua Skeve - National Inequality and Individual Readiness to Cooperate
 
 > Skewes, J. (2020, October 29). National Inequality and Individual Readiness to Cooperate. https://doi.org/10.31234/osf.io/f79rw 
