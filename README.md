@@ -286,4 +286,5 @@ MIT 6.S091: Introduction to Deep Reinforcement Learning (Deep RL) - [Video](http
 | Monday | 14:00 – 16:00 | Deep Q-learning
 | Wednesday | 12:00 – 14:00 | **Invited lecture**: Joshua Skeve - National Inequality and Individual Readiness to Cooperate
 
-> Skewes, J. (2020, October 29). National Inequality and Individual Readiness to Cooperate. https://doi.org/10.31234/osf.io/f79rw 
+> Skewes, J. (2020, October 29). National Inequality and Individual Readiness to Cooperate. https://doi.org/10.31234/osf.io/f79rw
+>  Fischbacher, Urs, and Simon Gächter. 2010. "Social Preferences, Beliefs, and the Dynamics of Free Riding in Public Goods Experiments." American Economic Review, 100 (1): 541-56. 
